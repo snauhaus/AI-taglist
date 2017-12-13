@@ -1,0 +1,51 @@
+
+AlchemyAPI
+Amazon Lex
+Ambiverse
+API.AI
+Aylien
+Basis Technologies
+Basis Technology
+Bitext
+bracketPy
+CogitoAPI
+cortical.io
+Dandelion
+Datumbox
+Diffbot
+Event Registry
+Finity
+Google Cloud Natural Language
+IBM Watson
+InData Labs
+Indico
+Ingen.io
+Intellexer API
+Klangoo
+Lexalytics
+Mashape
+MeaningCloud
+Microsoft Cognitive Services
+Microsoft LUIS
+MonkeyLearn
+NetOwl
+Ontotext
+Open Calais API
+ParallelDots
+Pingar
+RapidMiner
+Recast.ai
+Rosette Text Anaytics
+Rosoka
+Saplo
+SemanticNet
+Semantria
+Serpstat
+Snips.ai
+SpazioDati
+Sysomos
+TAS
+Textalytics
+TextRazor
+Thomson Reuters
+Wit.ai
